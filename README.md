@@ -2,6 +2,8 @@
 
 n2n, supernode for OpenWrt
 
+22.02.3
+
 [![Build n2n for OpenWrt](https://github.com/csrutil/n2n/actions/workflows/build.yaml/badge.svg)](https://github.com/csrutil/n2n/actions/workflows/build.yaml)
 
 ## How to use it
